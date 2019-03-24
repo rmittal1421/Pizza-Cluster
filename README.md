@@ -18,8 +18,15 @@ All in all, Pizza Cluster provides unique personalization settings that makes or
 	* Easy Payment option (Debit/Credit).  
 * Real Time Tracking:  
 	* User can check the status of his order in real time.  
-	* User would be able to track the delivery person using Google maps.  
-  
+	* User would be able to track the delivery person using Google maps. 
+	
+#### Techical information
+
+Languages : Ruby on Rails and Javascript
+Database : Ruby Active Record and MySQL
+Frontend : Bootsrap
+Backend: Ruby on Rails
+
 ##### Git Lab:
 &ensp;&ensp;https://csil-git1.cs.surrey.sfu.ca/kla121/cmpt276.git   
    
